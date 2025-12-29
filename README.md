@@ -1,3 +1,3 @@
-![vid](./swarmvid2.gif)
+![vid](./swarmvid1.gif)
 
 # testko testni
